@@ -1,0 +1,21 @@
+D:\Code\C#\Schedule ASUKA\Schedule-for-ASUKA-Neon-Genesis-Evangelion\Schedule for ASUKA\Schedule for ASUKA\bin\Debug\net6.0-windows\Schedule for ASUKA.exe
+D:\Code\C#\Schedule ASUKA\Schedule-for-ASUKA-Neon-Genesis-Evangelion\Schedule for ASUKA\Schedule for ASUKA\bin\Debug\net6.0-windows\Schedule for ASUKA.deps.json
+D:\Code\C#\Schedule ASUKA\Schedule-for-ASUKA-Neon-Genesis-Evangelion\Schedule for ASUKA\Schedule for ASUKA\bin\Debug\net6.0-windows\Schedule for ASUKA.runtimeconfig.json
+D:\Code\C#\Schedule ASUKA\Schedule-for-ASUKA-Neon-Genesis-Evangelion\Schedule for ASUKA\Schedule for ASUKA\bin\Debug\net6.0-windows\Schedule for ASUKA.dll
+D:\Code\C#\Schedule ASUKA\Schedule-for-ASUKA-Neon-Genesis-Evangelion\Schedule for ASUKA\Schedule for ASUKA\bin\Debug\net6.0-windows\Schedule for ASUKA.pdb
+D:\Code\C#\Schedule ASUKA\Schedule-for-ASUKA-Neon-Genesis-Evangelion\Schedule for ASUKA\Schedule for ASUKA\obj\Debug\net6.0-windows\Schedule for ASUKA.csproj.AssemblyReference.cache
+D:\Code\C#\Schedule ASUKA\Schedule-for-ASUKA-Neon-Genesis-Evangelion\Schedule for ASUKA\Schedule for ASUKA\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Code\C#\Schedule ASUKA\Schedule-for-ASUKA-Neon-Genesis-Evangelion\Schedule for ASUKA\Schedule for ASUKA\obj\Debug\net6.0-windows\App.g.cs
+D:\Code\C#\Schedule ASUKA\Schedule-for-ASUKA-Neon-Genesis-Evangelion\Schedule for ASUKA\Schedule for ASUKA\obj\Debug\net6.0-windows\Schedule for ASUKA_MarkupCompile.cache
+D:\Code\C#\Schedule ASUKA\Schedule-for-ASUKA-Neon-Genesis-Evangelion\Schedule for ASUKA\Schedule for ASUKA\obj\Debug\net6.0-windows\Schedule for ASUKA_MarkupCompile.lref
+D:\Code\C#\Schedule ASUKA\Schedule-for-ASUKA-Neon-Genesis-Evangelion\Schedule for ASUKA\Schedule for ASUKA\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Code\C#\Schedule ASUKA\Schedule-for-ASUKA-Neon-Genesis-Evangelion\Schedule for ASUKA\Schedule for ASUKA\obj\Debug\net6.0-windows\Schedule for ASUKA.g.resources
+D:\Code\C#\Schedule ASUKA\Schedule-for-ASUKA-Neon-Genesis-Evangelion\Schedule for ASUKA\Schedule for ASUKA\obj\Debug\net6.0-windows\Schedule for ASUKA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\Schedule ASUKA\Schedule-for-ASUKA-Neon-Genesis-Evangelion\Schedule for ASUKA\Schedule for ASUKA\obj\Debug\net6.0-windows\Schedule for ASUKA.AssemblyInfoInputs.cache
+D:\Code\C#\Schedule ASUKA\Schedule-for-ASUKA-Neon-Genesis-Evangelion\Schedule for ASUKA\Schedule for ASUKA\obj\Debug\net6.0-windows\Schedule for ASUKA.AssemblyInfo.cs
+D:\Code\C#\Schedule ASUKA\Schedule-for-ASUKA-Neon-Genesis-Evangelion\Schedule for ASUKA\Schedule for ASUKA\obj\Debug\net6.0-windows\Schedule for ASUKA.csproj.CoreCompileInputs.cache
+D:\Code\C#\Schedule ASUKA\Schedule-for-ASUKA-Neon-Genesis-Evangelion\Schedule for ASUKA\Schedule for ASUKA\obj\Debug\net6.0-windows\Schedule for ASUKA.dll
+D:\Code\C#\Schedule ASUKA\Schedule-for-ASUKA-Neon-Genesis-Evangelion\Schedule for ASUKA\Schedule for ASUKA\obj\Debug\net6.0-windows\refint\Schedule for ASUKA.dll
+D:\Code\C#\Schedule ASUKA\Schedule-for-ASUKA-Neon-Genesis-Evangelion\Schedule for ASUKA\Schedule for ASUKA\obj\Debug\net6.0-windows\Schedule for ASUKA.pdb
+D:\Code\C#\Schedule ASUKA\Schedule-for-ASUKA-Neon-Genesis-Evangelion\Schedule for ASUKA\Schedule for ASUKA\obj\Debug\net6.0-windows\Schedule for ASUKA.genruntimeconfig.cache
+D:\Code\C#\Schedule ASUKA\Schedule-for-ASUKA-Neon-Genesis-Evangelion\Schedule for ASUKA\Schedule for ASUKA\obj\Debug\net6.0-windows\ref\Schedule for ASUKA.dll
